@@ -1,6 +1,6 @@
 ---
 title: "What is Git?"
-slug: what-is-git
+slug: what-git
 ---
 
 Let's get started talking about one of the most important tools a developer can learn: *Git*.
