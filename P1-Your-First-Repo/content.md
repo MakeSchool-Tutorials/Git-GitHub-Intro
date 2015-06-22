@@ -3,7 +3,7 @@ title: "Your first repository!"
 slug: your-first-repo
 ---
 
-When using Git, each project get's its own *repository*. The repository (or *repo*) holds the project and its commits. Since Git is *distributed*, you general have a *local repository* and a *remote repository*. The local repository exists on your computer. The remote repository is usually hosted by a service such as [GitHub](https://www.github.com/). This means you'll still have a copy of your project if your computer goes missing or stops working.
+When using Git, each project gets its own *repository*. The repository (or *repo*) holds the project and its commits. Since Git is *distributed*, you usually have a *local repository* and a *remote repository*. The local repository exists on your computer. The remote repository is usually hosted by a service such as [GitHub](https://www.github.com/). This means you'll still have a copy of your project if your computer goes missing or stops working.
 
 #Create a GitHub account
 
@@ -41,7 +41,7 @@ We need to set up SourceTree before we can create a repository.
 Now we're ready to create our first repository!
 
 > [info]
-> The screenshots reference `Hoppy Bunny`, the first project for the games track. If you are on the apps track, use `MakeSchoolNotes` instead of `Hoppy Bunny`
+> The screenshots reference `Hoppy Bunny`, the first project for the games track. If you are on the apps track, use `MakeSchoolNotes` instead of `Hoppy Bunny`.
 
 > [action]
 > Press the `New Repository` button and select `Create local repository`.
@@ -50,7 +50,7 @@ Now we're ready to create our first repository!
 >
 > A dialog should popup for creating a local repository.
 >
-> Choose a destination path that makes sense for you. It's usually best practice to keep all your projects organized in the same place so now is a good time to make a `Projects` folder of some sort. Name your repository `HoppyBunny` if you are on the games track and `MakeSchoolNotes` if you are on the apps track.
+> Choose a destination filepath on your computer that makes sense for you. It's usually best practice to keep all your projects organized in the same place, so now is a good time to make a `Projects` folder of some sort. Name your repository `HoppyBunny` if you are on the games track and `MakeSchoolNotes` if you are on the apps track.
 >
 > Be sure the type is set to `Git` and *Also create remote repository* is checked! This will give us another dialog to create a remote repository on Github.
 >
@@ -83,7 +83,7 @@ Let's fix our empty repository! We can't commit and push until we get our projec
 
 Earlier, we talked about *commits* or snapshots. We already finished our first project so we want to create a single commit of the final results. When we do that we'll also *push* that commit to GitHub so it's backed up and added to our quickly growing portfolio.
 
-We will *stage* all the project files first. A *commit* only includes files that are staged so if we do not stage any files, we will not commit anything. Once all the files are in *staging*, we will *commit* and *push*. This will create a *commit* in our local repository and *push* it to our remote repository on GitHub.
+There are three steps to getting your files onto GitHub: *staging*, *committing*, and *pushing*. We will *stage* all the project files first. This is like arranging the subjects of your snapshot (hence "staging" a photograph). A *commit* only includes files that are staged, so if we do not stage any files, we will not commit anything. Once all the files are in *staging*, we will *commit* (take the snapshot) and *push* (share the snapshot with GitHub). This will create a *commit* in our local repository and *push* it to our remote repository on GitHub.
 
 > [action]
 > Double click on your repository in SourceTree to open it. Check the box next to *Unstaged files* to stage all the files.
