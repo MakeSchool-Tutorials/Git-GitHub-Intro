@@ -43,6 +43,8 @@ Now we're ready to create our first repository!
 > [info]
 > The screenshots reference `Hoppy Bunny`, the first project for the games track. If you are on the apps track, use `MakeSchoolNotes` instead of `Hoppy Bunny`
 
+<!-- MAKE SCHOOL -->
+
 > [action]
 > Press the `New Repository` button and select `Create local repository`.
 >
@@ -94,8 +96,12 @@ We will *stage* all the project files first. A *commit* only includes files that
 >
 > ![](./staged.png)
 
+<!-- MAKE SCHOOL -->
+
 > [info]
 > If you only wanted to commit a few changed files, you could pick and choose from the unstaged files area. In this case we want all of them so we checked the box next to *unstaged files* to add them all at once.
+
+<!-- MAKE SCHOOL -->
 
 > [action]
 > Press the `Commit` button.
@@ -113,3 +119,8 @@ We will *stage* all the project files first. A *commit* only includes files that
 > If you see this, that means you did it right!
 >
 > ![](./success.png)
+
+<!-- MAKE SCHOOL -->
+
+> [info]
+> You may still have an uncommited `Icon` file. Do not worry about this. Sometimes Git will not track the Icon file that OS X uses to give folders a custom icon (in this case, SpriteBuilder's red folder icon).
