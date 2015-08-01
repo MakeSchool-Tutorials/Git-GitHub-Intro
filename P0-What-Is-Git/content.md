@@ -42,4 +42,4 @@ Let's get you set up with Git and get your first project up on GitHub!
 
 #Feedback
 
-If you have feedback on this tutorial or find any mistakes, please open issues on the [GitHub Repository](https://github.com/MakeSchool-Tutorials/Peeved-Penguins-SpriteBuilder-Swift).
+If you have feedback on this tutorial or find any mistakes, please open issues on the [GitHub Repository](https://github.com/MakeSchool-Tutorials/Git-GitHub-Intro).
