@@ -33,7 +33,7 @@ In this tutorial you will get started with the very basics of Git.
 You will:
 
 1. Create a GitHub account to host your projects
-2. Configure (SourceTree)[https://www.sourcetreeapp.com/], a graphical interface for using Git
+2. Configure [Github Desktop](https://desktop.github.com/), a graphical interface for using Git
 3. Create a *repository* for your first project
 4. Create a *commit* to save your first project
 5. *Push* that *commit* to a *remote repository* hosted by GitHub
