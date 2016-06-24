@@ -105,7 +105,7 @@ Now, what happens if you make changes to your project after your first commit? W
 > [action]
 > Let's say you wanted to add a README file to your project. README's are displayed at the bottom of your _GitHub_ page and allow you to go into more detail about your project.
 >
-1. Download [this pre-made README](https://github.com/MakeSchool-Tutorials/Git-GitHub-Intro/raw/master/P1-Your-First-Repo//README.md).
+1. Download [this pre-made README](https://github.com/MakeSchool-Tutorials/Git-GitHub-Intro/raw/master/P1-Your-First-Repo/README.md).
 1. Drag it into your project's folder.
 1. Click the `Uncommitted Changes` tab to activate it.
 1. You should see one file *staged* and ready to be committed.
